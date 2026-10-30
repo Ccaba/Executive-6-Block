@@ -1,0 +1,73 @@
+{
+  "title": "Executive Performance Board",
+  "subtitle": "Six-Block Key Performance Indicators",
+  "lastSync": "2026-09-10T19:54:16.200Z",
+  "kpis": [
+    {
+      "id": "kpi-1",
+      "type": "safety",
+      "title": "HAPIs",
+      "currentMeasure": "6",
+      "goal": "< 50",
+      "status": "meeting",
+      "lastUpdated": "2026-08-31",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "id": "kpi-2",
+      "type": "safety",
+      "title": "Falls",
+      "currentMeasure": "57",
+      "goal": "< 174",
+      "status": "not_meeting",
+      "lastUpdated": "2026-08-31",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "id": "kpi-3",
+      "type": "experience",
+      "title": "Interdisciplinary Bed Rounds",
+      "currentMeasure": "67.25%",
+      "goal": "> 68.6%",
+      "status": "not_meeting",
+      "lastUpdated": "2026-07-31",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "id": "kpi-4",
+      "type": "value",
+      "title": "Readmissions",
+      "currentMeasure": "11.35%",
+      "goal": "< 11.21%",
+      "status": "not_meeting",
+      "lastUpdated": "2026-04-30",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "id": "kpi-5",
+      "type": "people",
+      "title": "Voluntary Turnover",
+      "currentMeasure": "11.2%",
+      "goal": "< 11.21%",
+      "status": "meeting",
+      "lastUpdated": "2026-08-31",
+      "unit": "",
+      "notes": ""
+    },
+    {
+      "id": "kpi-6",
+      "type": "quality",
+      "title": "Mortality",
+      "currentMeasure": "0.65",
+      "goal": "<= 0.69",
+      "status": "meeting",
+      "lastUpdated": "2026-06-30",
+      "unit": "",
+      "notes": ""
+    }
+  ]
+}
