@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "old-origin"]
+	url = https://gitops.umm.edu/Cary.Abma/executive-performance-board.git
+	fetch = +refs/heads/*:refs/remotes/old-origin/*
+[user]
+	name = Abma, Cary
+	email = cary.abma@umm.edu
+[remote "origin"]
+	url = git@gitops.umm.edu:performance-improvement/executive-performance-board.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
